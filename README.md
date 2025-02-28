@@ -57,7 +57,9 @@ La interfaz cuenta con un diseño moderno basado en una paleta de colores espec�
 
 La aplicación se encuentra alojada en Vercel y se puede ingresar a través de este link:
 
-<h6>:computer: Tecnologías utilizadas</h6>
+https://challenge-amigo-secreto-rosy.vercel.app/
+
+## computer: Tecnologías utilizadas</h6>
 ✅ HTML5 → Estructura y elementos de la interfaz.
 ✅ CSS3 → Diseño, estilos y animaciones.
 ✅ JavaScript → Lógica del juego, manipulación del DOM y animación de la ruleta.
